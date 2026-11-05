@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/lo-fi-guitar-midi-melodies-simple-synth-preview.mp3",
+  "preview_sha256": "a66724207b24ecfea7660f75cebe38e38b4750e5bf854e018a94bf906d2db1ce",
+  "source_midi_path": "midi/z5401-lo-fi-guitar-midi-melodies-opening/z5401-lo-fi-guitar-midi-melodies-opening-combined.mid",
+  "source_midi_sha256": "8357848b749bc515e65f7269bb9a9e59252ba55b42ffc47a703570e13d5fd467",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z5401",
+    "start_seconds": 0,
+    "end_seconds": 87.273
+  },
+  "measurement": {
+    "sample_peak": 0.12706,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

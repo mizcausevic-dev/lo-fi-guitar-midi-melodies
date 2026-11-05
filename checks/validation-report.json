@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:18.754502+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z5401-lo-fi-guitar-midi-melodies-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "11eb05f5872cc5c3db034871a1c1004ce69f151ba6ea36726a06b6264f96ca07",
+      "errors": []
+    },
+    {
+      "path": "midi/z5401-lo-fi-guitar-midi-melodies-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "47be6db380b99268af3fa5c83772d5377847241fc51d0a1f9c31e6bb2932b2db",
+      "errors": []
+    },
+    {
+      "path": "midi/z5401-lo-fi-guitar-midi-melodies-opening/drums.mid",
+      "bytes": 2673,
+      "sha256": "2ab804a4774c720215b857e1ea388236e3534c6925a774792874a8351cc541cc",
+      "errors": []
+    },
+    {
+      "path": "midi/z5401-lo-fi-guitar-midi-melodies-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "13f70706a6b1429d7c9daa87ee4e01b3363b8d925b4206fa42960751c3981d5a",
+      "errors": []
+    },
+    {
+      "path": "midi/z5401-lo-fi-guitar-midi-melodies-opening/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "03c75e67a5909e8132840f7d92c54285d213013d0ca76a0fc42ffd0ad0d245e2",
+      "errors": []
+    },
+    {
+      "path": "midi/z5401-lo-fi-guitar-midi-melodies-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "b6c029a7666ccbde8126a72a3bd612fb0f73a085115a05b274bfbba2961292d4",
+      "errors": []
+    },
+    {
+      "path": "midi/z5401-lo-fi-guitar-midi-melodies-opening/z5401-lo-fi-guitar-midi-melodies-opening-combined.mid",
+      "bytes": 5717,
+      "sha256": "8357848b749bc515e65f7269bb9a9e59252ba55b42ffc47a703570e13d5fd467",
+      "errors": []
+    },
+    {
+      "path": "midi/z5402-lo-fi-guitar-midi-melodies-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "4d3f7cf1c8287e0f948b54e62517db77491ae43b6598038078f7f5b5475bc059",
+      "errors": []
+    },
+    {
+      "path": "midi/z5402-lo-fi-guitar-midi-melodies-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e24b2c1fd4aef5dfcdbb0e069954d232c4400f066ee722d64d73472044680dff",
+      "errors": []
+    },
+    {
+      "path": "midi/z5402-lo-fi-guitar-midi-melodies-variation/drums.mid",
+      "bytes": 2673,
+      "sha256": "2ab804a4774c720215b857e1ea388236e3534c6925a774792874a8351cc541cc",
+      "errors": []
+    },
+    {
+      "path": "midi/z5402-lo-fi-guitar-midi-melodies-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "9727d0d0fa7184e7d6ee05a6d57552e7a5dd429702b22b17b865d382eaed6ec2",
+      "errors": []
+    },
+    {
+      "path": "midi/z5402-lo-fi-guitar-midi-melodies-variation/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "55220ccb36c94ecbe7e109e23cc23c7cd05bfe8dec83c7cc260079760b611229",
+      "errors": []
+    },
+    {
+      "path": "midi/z5402-lo-fi-guitar-midi-melodies-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "8b4dcb3ec9cfefc321834423ab66cddb55188af212ebef248b96bce607f90f7f",
+      "errors": []
+    },
+    {
+      "path": "midi/z5402-lo-fi-guitar-midi-melodies-variation/z5402-lo-fi-guitar-midi-melodies-variation-combined.mid",
+      "bytes": 5717,
+      "sha256": "e45b463e860b32eddca08a50e75770b63c66ea2279f671e2f150ca463fc56209",
+      "errors": []
+    },
+    {
+      "path": "midi/z5403-lo-fi-guitar-midi-melodies-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "10279e5d0d1717d561822ae9893208a040fac46250a7de623c9517ec40f79f7b",
+      "errors": []
+    },
+    {
+      "path": "midi/z5403-lo-fi-guitar-midi-melodies-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "f3523126d12283f0395a9d64a45c749f409da6a77df0cb4d1b89b29a4529aaa7",
+      "errors": []
+    },
+    {
+      "path": "midi/z5403-lo-fi-guitar-midi-melodies-contrast/drums.mid",
+      "bytes": 2673,
+      "sha256": "2ab804a4774c720215b857e1ea388236e3534c6925a774792874a8351cc541cc",
+      "errors": []
+    },
+    {
+      "path": "midi/z5403-lo-fi-guitar-midi-melodies-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "5cbe18131238f79411267ee221082a346f76a1e18dcac277701146efa6c9d284",
+      "errors": []
+    },
+    {
+      "path": "midi/z5403-lo-fi-guitar-midi-melodies-contrast/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "f4ab4e2cbe8b776e51b500936803ad81aff3f2b84c0a40f75f1cc96a3e620fd8",
+      "errors": []
+    },
+    {
+      "path": "midi/z5403-lo-fi-guitar-midi-melodies-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c9df6745178844454eb908a8066d9534c696e1d5c248723427c3eda650dd05b4",
+      "errors": []
+    },
+    {
+      "path": "midi/z5403-lo-fi-guitar-midi-melodies-contrast/z5403-lo-fi-guitar-midi-melodies-contrast-combined.mid",
+      "bytes": 5683,
+      "sha256": "80ee53705d16aea73a85dba29a65bbdf6eacc9a49f581416cb55482919107c82",
+      "errors": []
+    },
+    {
+      "path": "midi/z5404-lo-fi-guitar-midi-melodies-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "e1c76c4baec4f36d120cbc94b9439bae1972eb84951d747589ffa4b177700a65",
+      "errors": []
+    },
+    {
+      "path": "midi/z5404-lo-fi-guitar-midi-melodies-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "f4429bc900dfc5055fada1fd87846482dc63bedaede4ba81c03cda518eb0585e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5404-lo-fi-guitar-midi-melodies-return/drums.mid",
+      "bytes": 2673,
+      "sha256": "2ab804a4774c720215b857e1ea388236e3534c6925a774792874a8351cc541cc",
+      "errors": []
+    },
+    {
+      "path": "midi/z5404-lo-fi-guitar-midi-melodies-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "77591a97a2e7067e0d74d99e647d6bad4a637e117a2cc4e73e539f77d8ee296a",
+      "errors": []
+    },
+    {
+      "path": "midi/z5404-lo-fi-guitar-midi-melodies-return/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "4e65c057c9b89ac76c604fab782a6e12d1b3491651e42afa0984bb6f0698b2a7",
+      "errors": []
+    },
+    {
+      "path": "midi/z5404-lo-fi-guitar-midi-melodies-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "5d760bcff05b576616177e0a734af2577afaca0bcad10f6b33fac2fac2fa8208",
+      "errors": []
+    },
+    {
+      "path": "midi/z5404-lo-fi-guitar-midi-melodies-return/z5404-lo-fi-guitar-midi-melodies-return-combined.mid",
+      "bytes": 5683,
+      "sha256": "89e592b8a9956954d917944b893a5f1df5477e282c923daa279feab4c04977d2",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

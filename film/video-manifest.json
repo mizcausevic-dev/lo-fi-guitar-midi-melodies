@@ -1,0 +1,26 @@
+{
+  "title": "Lo-Fi Guitar MIDI Melodies",
+  "study": "z5401",
+  "bpm": 88,
+  "source_audio": "preview/lo-fi-guitar-midi-melodies-simple-synth-preview.mp3",
+  "source_audio_sha256": "a66724207b24ecfea7660f75cebe38e38b4750e5bf854e018a94bf906d2db1ce",
+  "source_midi": "midi/z5401-lo-fi-guitar-midi-melodies-opening/z5401-lo-fi-guitar-midi-melodies-opening-combined.mid",
+  "source_midi_sha256": "8357848b749bc515e65f7269bb9a9e59252ba55b42ffc47a703570e13d5fd467",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "e8a1d3c687c74fb3ea667b6d7c36a2d8cc4bcdc3bb46d129ba2e302bc7528496",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "d1d6f5797d41ee21fabffc8d8aac04801a53e1d9f48ed3350f505b92e045224f",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "b7aaa542f01ea6172c43242520a07ff362ba03d7f13325fe4d1d279591e4b448",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
