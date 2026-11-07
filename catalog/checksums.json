@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/lo-fi-guitar-midi-melodies-midi.zip",
-      "bytes": 31787,
-      "sha256": "8ce057276d80a44dc7470a506780927f8a77c4b2b3b672b85a1f3b18506d99b0"
+      "bytes": 32774,
+      "sha256": "54515dac234d096d09ba4f4317a334b7c022cd738d676072cc74fc86e41b1923"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10066,
-      "sha256": "3638b3c899b1373761d32e728585c4c5ddc7e6e23330e8638b88177523323354"
+      "bytes": 10256,
+      "sha256": "e828b6309f651b83559e35016f08022d8d5af58ac77e3df54826581494eab43d"
     },
     {
       "path": "midi/z5401-lo-fi-guitar-midi-melodies-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "89e592b8a9956954d917944b893a5f1df5477e282c923daa279feab4c04977d2"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/lo-fi-guitar-midi-melodies-simple-synth-preview.mp3",
       "bytes": 2108439,
       "sha256": "a66724207b24ecfea7660f75cebe38e38b4750e5bf854e018a94bf906d2db1ce"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4005,
-      "sha256": "8ee9b9a965a66a83ff2b3482277ae6f03b46da5548c9e8c8d9f002c11231bef1"
+      "bytes": 4120,
+      "sha256": "79a64fb896317dd882862b5aaded9f9105fdeff872116487e66cca7dec45bd12"
     },
     {
       "path": "social/instagram/caption.txt",
